@@ -1,2 +1,2 @@
 # -mrm_codes_AI
-REFFERED DURING DOUBTS : JWarmenhoven's page
+REFERENCE: JWarmenhoven's page
