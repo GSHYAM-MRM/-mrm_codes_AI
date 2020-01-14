@@ -1,2 +1,3 @@
 # -mrm_codes_AI
-REFERENCE: JWarmenhoven's page
+REFERENCES: JWarmenhoven's page
+            PokeGAN : DCGAN PyTorch Documentation tutorial.
