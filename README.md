@@ -4,7 +4,7 @@ This Repository Contains Codes, That I wrote during My **Training Phase** at Mar
 
 It Contains Programming Assignment Solutions for the **Stanford Machine Learning Course** on Coursera by Andrew Ng.
 
-It Also Contains a Jupyter Notebook - **"PokeGAN"**, Which is an Implementation of Generative Adversarial Network, for Generating Images of **Pokemon**. I have Implemeted the prject using **PyTorch**.DL Framework.
+It Also Contains a Jupyter Notebook - **"PokeGAN"**, Which is an Implementation of Generative Adversarial Network, for Generating Images of **Pokemon**. I have Implemeted the prject using **PyTorch** DL Framework.
 
 
 
