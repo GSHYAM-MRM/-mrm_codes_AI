@@ -9,5 +9,5 @@ It Also Contains a Jupyter Notebook - **"PokeGAN"**, Which is an Implementation 
 
 
 **REFERENCES**: 
-**Stanford's ML course on Coursera** : Referred *JWarmenhoven's* Implementation. 
-**PokeGAN** : DCGAN *PyTorch-Documentation* tutorial.
+1. **Stanford's ML course on Coursera** : Referred *JWarmenhoven's* Implementation. 
+2. **PokeGAN** : DCGAN *PyTorch-Documentation* tutorial.
